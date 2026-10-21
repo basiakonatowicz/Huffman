@@ -1,0 +1,15 @@
+pl\edu\pw\ee\aisd2025zex5\io\BitStreamTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\HuffmanNodeTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\HuffmanTreeBuilderTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\MyMinHeapTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\CodeGeneratorTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\HuffmanDecompressorTest.class
+pl\edu\pw\ee\aisd2025zex5\cmdargs\ArgumentsParserTest.class
+pl\edu\pw\ee\aisd2025zex5\utils\ByteArrayWrapperTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\MyHashMapTest.class
+pl\edu\pw\ee\aisd2025zex5\io\BitOutputStreamTest.class
+pl\edu\pw\ee\aisd2025zex5\io\BitInputStreamTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\FrequencyCollectorTest.class
+pl\edu\pw\ee\aisd2025zex5\huffman\HuffmanCompressorTest.class
+pl\edu\pw\ee\aisd2025zex5\io\BitSynchronizationUnitTest.class
+pl\edu\pw\ee\aisd2025zex5\MainTest.class
