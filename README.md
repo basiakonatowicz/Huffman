@@ -1,4 +1,4 @@
-# AiSD2025ZEx5: Kompresor Huffmana
+Kompresor Huffmana
 ## 1. Kompilacja i Budowanie Projektu
 
 Aby skompilować kod i stworzyć uruchamialny plik JAR, należy wykonać następujące kroki w katalogu głównym projektu. (Bash):
